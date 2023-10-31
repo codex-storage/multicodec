@@ -530,6 +530,7 @@ skynet-ns,                      namespace,      0xb19910,       draft,      Skyn
 arweave-ns,                     namespace,      0xb29910,       draft,      Arweave Namespace
 subspace-ns,                    namespace,      0xb39910,       draft,      Subspace Network Namespace
 kumandra-ns,                    namespace,      0xb49910,       draft,      Kumandra Network Namespace
+poseidon2-alt_bn_128-a2-cdx1    multihash,      0xcd0001,       draft,      Poseidon2 using BN254 (alt-bn-128) and arity of 2 with Codex parameters
 es256,                          varsig,         0xd01200,       draft,      ES256 Signature Algorithm
 es284,                          varsig,         0xd01201,       draft,      ES384 Signature Algorithm
 es512,                          varsig,         0xd01202,       draft,      ES512 Signature Algorithm
